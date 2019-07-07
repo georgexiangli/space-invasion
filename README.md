@@ -6,8 +6,8 @@ New features include a practice mode, game of catch, and raindrop simulation.
 
 ## Prerequisites
 
-* [Python 3.x] (https://www.python.org/downloads/) 
-* [PyGame 1.9.x] (https://www.pygame.org/download.shtml)
+* [Python 3.x](https://www.python.org/downloads/) 
+* [PyGame 1.9.x](https://www.pygame.org/download.shtml)
 
 ## Getting Started
 
@@ -52,5 +52,5 @@ python ./run_drops.py
 
 ## Acknowledgments
 
-* Developed from Eric Matthes' Alien Invasion game from [Python Crash Course] (https://github.com/ehmatthes/pcc)
+* Developed from Eric Matthes' Alien Invasion game from [Python Crash Course](https://github.com/ehmatthes/pcc)
 
