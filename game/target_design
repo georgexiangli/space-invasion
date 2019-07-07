@@ -1,0 +1,19 @@
+Target Practice
+
+-Target must move side to side on the x axis at the top of the screen
+	-When it reaches the edge of the screen, it reverses direction
+-For every hit, the target will increase in speed
+-Scoreboard will increment by 1
+
+Files
+    -target.py
+    -game_functions
+	-Remove all references to aliens
+	-Replace with target
+	-Decide if target should be a Group of 1 or a sprite
+    -scoreboard
+	-Adjust scoreboard to only increment once
+
+Remove aliens and just draw the target first
+
+Merge code bases
