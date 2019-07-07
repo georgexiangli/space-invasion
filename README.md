@@ -1,6 +1,6 @@
 # Space Invasion
 
-Implementation and expansion of the classic Space Invaders game using the PyGame.
+Implementation and expansion of the classic Space Invaders game using PyGame.
 
 New features include a practice mode, game of catch, and raindrop simulation. 
 
